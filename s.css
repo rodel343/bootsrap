@@ -1,0 +1,147 @@
+.mainContent{
+    background-color: aquamarine;
+    display: inline-block;
+    width: 900px;
+    height: auto;
+}
+
+
+.forRightSideContent{
+    display: inline-block;
+    background-color: rgb(114, 116, 218);
+    width: 200px;
+    height: auto; 
+    text-decoration: none;
+}
+
+.buddy{
+    background-color: gray;
+}
+
+.logo,img{
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+}
+.cute{
+    background-color: white;
+}
+
+.showpass{
+    color: black;
+    
+}
+
+.vmgo{
+    width: 1000px;
+    height: 1000px;
+margin-left: 95px;
+}
+.boang {
+    height: 200px;
+    width: 200px;
+    margin-right: 550px;
+    margin-left: 550px;
+    
+}
+.ang{
+    text-align: center;
+}
+.boang:hover{
+    scale: 1.2;
+}
+
+.homeSB{
+    margin-left: 400px;
+}
+.nav-item{
+    background-color: rgb(194, 0, 161);
+    width: 300px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.collegeIn{
+    width: 500px;
+    height: auto;
+    background-color: rgb(8, 8, 39);
+    color: white;
+    text-align: center;
+    margin-left: 420px;
+}
+
+
+.inpForStudId{
+    width: 400px;
+    margin-left: 40px;
+    display: flex;
+}
+
+.password{
+    width: 400px;
+    margin-left: 40px;
+    display: flex;
+    background-color: rgb(212, 84, 84);
+    color: rgb(146, 6, 6);
+}
+.footer{
+    text-align: center;
+}
+.footeR{
+    background-color: rgb(194, 0, 161);
+    text-align: center;
+}
+
+.signIn{
+    background-color: rgb(8, 8, 39);
+    color: white;
+    border-radius: 10%;
+    width: 400px;
+    margin-left: 40px;
+    display: flex;
+}
+.studId{
+    color: black;
+    margin-left: 40px;
+    display: flex;
+    
+}
+.forgotPassword{
+    text-decoration: none;
+    width: 400px;
+    margin-left: 40px;
+    display: flex;
+}
+
+.pass{
+    color: black;
+    margin-left: 40px;
+    display: flex;
+}
+.inpForStudPassword{
+    width: 400px;
+    margin-left: 40px;
+    display: flex;
+}
+
+.content{
+    text-align: center;
+    background-color: white;
+    height: auto;
+}
+
+.forLeftSideContent{
+    display: inline-block;
+    background-color: rgb(114, 116, 218);
+    height: auto;
+    width: 200px;
+    margin-left: 10px;
+    text-decoration-color: white;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.nav-item:hover{
+    scale:1.2;
+}
